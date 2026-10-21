@@ -1,0 +1,24 @@
+[project]
+name = "rag-laboratory"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Bruno Bertolino", email = "brunobertolino99@gmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "chromadb>=1.5.9",
+    "llama-index-core>=0.14.25",
+    "llama-index-embeddings-ollama>=0.10.0",
+    "llama-index-llms-ollama>=0.11.0",
+    "llama-index-readers-file>=0.7.0",
+    "llama-index-vector-stores-chroma>=0.6.0",
+]
+
+[project.scripts]
+rag-laboratory = "rag_laboratory:main"
+
+[build-system]
+requires = ["uv_build>=0.12.6,<0.13.0"]
+build-backend = "uv_build"
