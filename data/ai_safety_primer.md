@@ -1,4 +1,3 @@
-CORPUS_TEXT = '''
 # AI Safety Primer
 
 ## What is AI Safety?
@@ -61,4 +60,3 @@ on AI safety research:
   theoretical alignment problems
 - **Center for AI Safety (CAIS)** — coordinates safety research across academia
   and industry
-'''
