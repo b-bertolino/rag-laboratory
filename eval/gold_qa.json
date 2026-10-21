@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q1",
+    "question": "What is alignment in the context of AI safety?",
+    "expected_keywords": ["alignment", "goals"]
+  },
+  {
+    "id": "q2",
+    "question": "What is RLHF and how does it work?",
+    "expected_keywords": ["rlhf", "reward"]
+  },
+  {
+    "id": "q3",
+    "question": "What is reward hacking?",
+    "expected_keywords": ["reward hacking", "unintended"]
+  },
+  {
+    "id": "q4",
+    "question": "What is Constitutional AI and who developed it?",
+    "expected_keywords": ["constitutional ai", "anthropic"]
+  },
+  {
+    "id": "q5",
+    "question": "What is red teaming in AI?",
+    "expected_keywords": ["red teaming", "failure"]
+  },
+  {
+    "id": "q6",
+    "question": "What is deceptive alignment?",
+    "expected_keywords": ["deceptive alignment", "training"]
+  },
+  {
+    "id": "q7",
+    "question": "What is interpretability in AI systems?",
+    "expected_keywords": ["interpretability", "neural"]
+  },
+  {
+    "id": "q8",
+    "question": "Which organizations are working on AI safety?",
+    "expected_keywords": ["anthropic", "openai", "deepmind"]
+  }
+]
