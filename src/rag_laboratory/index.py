@@ -1,4 +1,3 @@
-"""Celle 6 e 10 — Indice vettoriale su ChromaDB, con cache su disco, e reset."""
 import logging
 import shutil
 
